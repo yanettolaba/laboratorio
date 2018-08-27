@@ -10,3 +10,6 @@ PASOS A SEGUIR PARA CADA COMMIT
 1. git status
 2. git add .
 3. git commit -m "el mensaje" 
+
+PASOS PARA SUBIR A LA WEB
+git push origin master
